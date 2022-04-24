@@ -1,0 +1,23 @@
+{
+    "posts": [
+        {
+        "title": "the best js libraries", 
+        "body": "The 10 best js libraries for every day. Here they are: these are the first of our selected libraries. Ready?",
+        "id": 1,
+        "tags": [
+            "webdev",
+            "js",
+            "coding"
+        ]
+    },
+      { "title": "3 simple css tricks", 
+        "body": "Are you using these in your daily projects? Here are some of the smartest CSS tricks that will help you be more productive and effective.", 
+        "id": 2,
+        "tags": [
+            "webdev",
+            "css",
+            "coding"
+        ]
+    }
+    ]
+}
